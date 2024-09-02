@@ -8,10 +8,10 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Acm-dep-v2</groupId>
-	<artifactId>Acm-dep-v2</artifactId>
+	<groupId>com.acm-dep-v2</groupId>
+	<artifactId>acm-dep-v2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Acm-dep-v2</name>
+	<name>acm-dep-v2</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
